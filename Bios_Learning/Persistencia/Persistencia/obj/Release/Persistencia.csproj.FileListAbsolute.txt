@@ -1,0 +1,14 @@
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\Persistencia.dll
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\Persistencia.pdb
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\EntidadesCompartidas.dll
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\EntidadesCompartidas.pdb
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.dll
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\Persistencia\Persistencia\obj\Release\Persistencia.pdb

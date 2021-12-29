@@ -1,0 +1,10 @@
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+D:\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entrega\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb
